@@ -1,0 +1,89 @@
+# Software, Services, and Systems Inventory Management – Audit Checklist
+
+## 1. Comprehensive Inventory
+- [ ] Does the organization maintain inventories of all software, services, and systems under its management?
+
+**Audit Evidence / Prüfpunkte:**
+- Vollständige Listen aller Software, Services und Systeme
+- Nachweis der regelmäßigen Aktualisierung
+- Integration in IT-Management- und Cybersecurity-Prozesse
+
+---
+
+## 2. Types of Software, Services, and Systems
+- [ ] What types of software, services, and systems are included in the inventories (e.g., applications, databases, cloud services, operating systems, network services)?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Kategorien der Inventarobjekte
+- Nachweis der Vollständigkeit durch Abgleich mit IT-Architektur
+- Übersicht der genutzten Plattformen und Anwendungen
+
+---
+
+## 3. Accuracy & Currency
+- [ ] How does the organization ensure that the software, services, and systems inventories are accurate and up-to-date?
+
+**Audit Evidence / Prüfpunkte:**
+- Prozesse zur regelmäßigen Überprüfung und Verifizierung
+- Audit-Trails für Änderungen
+- Reports oder Tools zur Konsistenzprüfung
+
+---
+
+## 4. Adding & Removing Items
+- [ ] Is there a defined process for adding new software, services, and systems to the inventories and removing decommissioned or retired items?
+
+**Audit Evidence / Prüfpunkte:**
+- SOPs oder Workflow-Dokumentation für Onboarding/Offboarding
+- Nachweis der Anwendung in der Praxis
+- Genehmigungen durch zuständige Teams
+
+---
+
+## 5. Inventory Details
+- [ ] Do the inventories include relevant details such as software versions, licenses, configurations, and associated hardware assets?
+
+**Audit Evidence / Prüfpunkte:**
+- Vollständige Datensätze für jedes Inventarobjekt
+- Nachweis der Aktualisierung und Pflege
+- Nutzung der Daten für Risiko- und Sicherheitsmanagement
+
+---
+
+## 6. Use in Cybersecurity Risk Management
+- [ ] How are the software, services, and systems inventories used to support cybersecurity risk management activities?
+
+**Audit Evidence / Prüfpunkte:**
+- Integration in Vulnerability Management, Patch Management, Threat Assessments
+- Nutzung in Risikoanalysen und Berichterstattung
+- Nachweis der Entscheidungsunterstützung für Management
+
+---
+
+## 7. Detection of Unauthorized / Unmanaged Items
+- [ ] Are there mechanisms in place to monitor and detect unauthorized or unmanaged software, services, and systems within the organization's environment?
+
+**Audit Evidence / Prüfpunkte:**
+- Monitoring-Tools oder Software Asset Management Systeme
+- Alerts bei nicht autorisierten Installationen
+- Nachweis von Korrekturmaßnahmen
+
+---
+
+## 8. Centralized System / Database
+- [ ] Does the organization have a centralized system or database for maintaining and managing the software, services, and systems inventories?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis eines zentralen Systems (z. B. CMDB, ITSM)
+- Zugriffskontrollen, Versionierung und Integrität
+- Integration in Reporting- und Governance-Prozesse
+
+---
+
+## 9. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for maintaining the software, services, and systems inventories?
+
+**Audit Evidence / Prüfpunkte:**
+- Rollenbeschreibungen oder RACI-Matrix
+- Nachweis der Verantwortlichkeit für Pflege und Audits
+- Schulungs- und Awareness-Dokumentation
