@@ -1,0 +1,89 @@
+# Cyber Threat Intelligence (CTI) Management – Audit Checklist
+
+## 1. CTI Processes
+- [ ] Does the organization have processes in place to receive and leverage cyber threat intelligence from information sharing forums and sources?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte CTI-Prozesse oder SOPs
+- Nachweis der Integration in Cybersecurity- und Risk-Management-Prozesse
+- Beispiele für Umsetzung in täglichen Sicherheitsoperationen
+
+---
+
+## 2. Sources & Forums
+- [ ] What types of information sharing forums and sources does the organization participate in or obtain intelligence from (e.g., industry groups, government agencies, threat intelligence providers)?
+
+**Audit Evidence / Prüfpunkte:**
+- Liste der genutzten Threat-Intelligence-Quellen und Foren
+- Nachweis der Mitgliedschaften oder Teilnahme
+- Dokumentation der Nutzung für Entscheidungsprozesse
+
+---
+
+## 3. Source Reliability & Credibility
+- [ ] How does the organization evaluate the reliability and credibility of the threat intelligence sources?
+
+**Audit Evidence / Prüfpunkte:**
+- Bewertungsmethodik für Quellen
+- Historische Performance oder Validierungsberichte
+- Kriterien zur Priorisierung oder Filterung von Informationen
+
+---
+
+## 4. Centralized CTI System
+- [ ] Is there a centralized system or database for collecting, storing, and analyzing the received threat intelligence?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis eines zentralen CTI-Repositories oder Tools
+- Dokumentation der Nutzung für Analyse, Reporting und Risikobewertung
+- Integration mit SIEM, SOAR oder anderen Security-Tools
+
+---
+
+## 5. Integration into Risk & Decision-Making
+- [ ] How is the threat intelligence integrated into the organization's risk assessment and decision-making processes?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis der Nutzung von CTI in Risk Assessments oder Security Reviews
+- Beispiele für Entscheidungen basierend auf Threat Intelligence
+- Dokumentation der Integration in strategische und operative Prozesse
+
+---
+
+## 6. Prioritization & Analysis
+- [ ] Are there mechanisms in place to analyze and prioritize the threat intelligence based on its relevance and potential impact?
+
+**Audit Evidence / Prüfpunkte:**
+- Bewertungs- und Priorisierungsmethoden für Threat Intelligence
+- Kriterien für kritische vs. weniger relevante Informationen
+- Nachweis der Anwendung in Security Operations oder Risk Management
+
+---
+
+## 7. Sharing CTI with Stakeholders
+- [ ] Does the organization share relevant threat intelligence with its partners, suppliers, or other stakeholders as appropriate?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte CTI-Sharing-Prozesse
+- Nachweis der Kommunikation mit Partnern oder Lieferanten
+- Einhaltung von NDAs, SLAs oder rechtlichen Vorgaben
+
+---
+
+## 8. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for the management and utilization of cyber threat intelligence?
+
+**Audit Evidence / Prüfpunkte:**
+- RACI-Matrix oder Rollenbeschreibungen für CTI
+- Nachweis der Umsetzung durch Security Teams
+- Verantwortlichkeiten für Sammlung, Analyse und Eskalation
+
+---
+
+## 9. Training & Guidance
+- [ ] Does the organization provide training or guidance to personnel involved in threat intelligence activities?
+
+**Audit Evidence / Prüfpunkte:**
+- Schulungen, SOP-Handbücher oder Awareness-Materialien
+- Teilnahme- und Trainingsnachweise
+- Anwendung von Best Practices in der täglichen CTI-Arbeit
