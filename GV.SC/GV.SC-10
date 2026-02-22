@@ -1,0 +1,76 @@
+# Post-Relationship Supplier & Third-Party Cybersecurity Management – Audit Checklist
+
+## 1. Inclusion of Post-Relationship Activities
+- [ ] Does the organization's cybersecurity supply chain risk management plan include provisions for activities that occur after the conclusion of a partnership or service agreement with a supplier or third-party?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierter Plan für Post-Relationship Aktivitäten
+- Genehmigung durch Management / CISO
+- Integration in Supply Chain Risk Management Policy
+- Historie der Anpassungen
+
+---
+
+## 2. Secure Transfer, Return, or Destruction of Assets
+- [ ] What processes are in place to ensure the secure transfer, return, or destruction of the organization's data and assets when a supplier or third-party relationship is terminated?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Prozesse für Data/Asset Handling
+- Nachweis von Offboarding-Checklisten
+- SOPs für sichere Übergabe oder Löschung
+- Management-Freigaben und Auditberichte
+
+---
+
+## 3. Secure Offboarding of Access
+- [ ] Are there defined procedures for the secure offboarding of supplier or third-party access, accounts, and privileges upon the conclusion of an agreement?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Access-Revocation-Prozesse
+- Nachweis von Benutzer-/Systemzugriffs-Entfernungen
+- Integration in IAM- oder Identity Management Prozesse
+- Audit-Trails der Offboarding-Aktivitäten
+
+---
+
+## 4. Protection of Intellectual Property & Sensitive Data
+- [ ] How does the organization ensure that intellectual property, confidential information, and other sensitive data are protected during and after the termination of a supplier or third-party relationship?
+
+**Audit Evidence / Prüfpunkte:**
+- Vertragsklauseln zu Vertraulichkeit und IP
+- Nachweis von Data Protection Maßnahmen
+- Monitoring- oder Auditberichte
+- Eskalationsprozesse bei Verstößen
+
+---
+
+## 5. Contractual Clauses for Post-Relationship Security
+- [ ] Are there contractual clauses or agreements that outline the post-relationship cybersecurity and data handling requirements for suppliers and third parties?
+
+**Audit Evidence / Prüfpunkte:**
+- Verträge oder SLAs mit Post-Relationship Security Anforderungen
+- Management-Freigaben oder Legal Review
+- Historie der Vertragsanpassungen
+- Nachweis der Kommunikation an Supplier/Third Parties
+
+---
+
+## 6. Verification & Validation of Data Destruction/Return
+- [ ] Does the organization have a process to verify and validate the secure destruction or return of the organization's data and assets by suppliers and third parties upon the termination of an agreement?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis von Data Return / Destruction Reports
+- Audit-Trails und Validierungsdokumente
+- Management Review oder Compliance-Berichte
+- Lessons Learned aus Offboarding-Prozessen
+
+---
+
+## 7. Risk Mitigation for Post-Relationship
+- [ ] Are there mechanisms in place to address and mitigate any cybersecurity risks that may arise from the termination of a supplier or third-party relationship?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Risikoanalysen für Offboarding
+- Eskalations- und Response-Prozesse
+- Integration in ERM oder Supplier Risk Register
+- Nachweis der Implementierung von Gegenmaßnahmen
