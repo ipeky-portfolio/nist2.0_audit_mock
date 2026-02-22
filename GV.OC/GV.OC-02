@@ -1,0 +1,81 @@
+# Stakeholder & Cybersecurity – Audit Checklist (mit Prüfpunkten)
+
+## 1. Stakeholder Identification
+- [ ] Has the organization identified and documented its internal and external stakeholders?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Stakeholder-Liste (intern / extern)
+- Klassifizierung nach Einfluss, Kritikalität oder Risikopotenzial
+- Berücksichtigung von Kunden, Lieferanten, Behörden, Partnern
+- Regelmäßige Aktualisierung der Stakeholder-Übersicht
+
+---
+
+## 2. Assessment of Stakeholder Needs
+- [ ] Has the organization assessed the needs, expectations, and concerns of these stakeholders regarding cybersecurity?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Anforderungsanalyse
+- Vertragsanforderungen (z. B. Sicherheitsklauseln)
+- Regulatorische / gesetzliche Anforderungen identifiziert
+- Ergebnisse aus Kundenanforderungen oder Security Questionnaires
+- Risikoanalyse mit Bezug zu Stakeholder-Erwartungen
+
+---
+
+## 3. Communication & Awareness
+- [ ] Are the identified stakeholders and their cybersecurity-related needs and expectations communicated and understood throughout the organization?
+
+**Audit Evidence / Prüfpunkte:**
+- Interne Kommunikationsmaßnahmen (Policies, Schulungen, Awareness)
+- Management-Reporting zu Stakeholder-Anforderungen
+- Dokumentierte Prozesse zur Umsetzung externer Anforderungen
+- Schulungsnachweise für relevante Abteilungen
+
+---
+
+## 4. Ongoing Stakeholder Engagement
+- [ ] Does the organization have a process in place to regularly engage with stakeholders regarding cybersecurity-related needs and expectations?
+
+**Audit Evidence / Prüfpunkte:**
+- Regelmäßige Review-Meetings oder Governance-Boards
+- Lieferantenbewertungen / Third-Party Risk Management
+- Kundenfeedback- oder Compliance-Prozesse
+- Prozess zur Anpassung bei neuen regulatorischen Anforderungen
+- Dokumentierte Änderungs- oder Verbesserungsmaßnahmen
+
+---
+
+## 5. Alignment of Policies, Processes & Controls
+- [ ] Are the organization's cybersecurity risk management policies, processes, and controls designed to address the identified stakeholder needs and expectations?
+
+**Audit Evidence / Prüfpunkte:**
+- Mapping zwischen Stakeholder-Anforderungen und Sicherheitskontrollen
+- Berücksichtigung vertraglicher und regulatorischer Anforderungen
+- Dokumentierte Control Objectives mit Bezug zu Stakeholder-Erwartungen
+- Nachweis der Integration in ISMS / Risk Management Framework
+- Management-Freigabe sicherheitsrelevanter Policies
+
+---
+
+## 6. Incorporation of Stakeholder Feedback
+- [ ] Are there examples of how the organization has incorporated stakeholder feedback and input into its cybersecurity risk management approach?
+
+**Audit Evidence / Prüfpunkte:**
+- Änderungsprotokolle von Policies nach Feedback
+- Anpassungen nach Kundenanforderungen oder Security Assessments
+- Lessons Learned aus Audits oder Assessments
+- Dokumentierte Verbesserungsmaßnahmen (Continuous Improvement)
+- Nachweis von Board- oder Management-Entscheidungen
+
+---
+
+## 7. Monitoring of Gaps & Misalignments
+- [ ] Does the organization have a mechanism to monitor and address gaps or misalignments between stakeholder needs and cybersecurity risk management activities?
+
+**Audit Evidence / Prüfpunkte:**
+- Gap-Analysen oder Compliance-Assessments
+- KPI / KRI Reporting mit Stakeholder-Bezug
+- Internes Auditprogramm oder Kontrolltests
+- Eskalations- und Remediation-Prozess definiert
+- Dokumentierte Maßnahmenverfolgung (z. B. Ticket- oder Tracking-System)
