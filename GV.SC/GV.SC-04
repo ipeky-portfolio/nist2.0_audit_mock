@@ -1,0 +1,98 @@
+# Supplier Identification, Categorization & Criticality Assessment – Audit Checklist
+
+## 1. Identification of Suppliers
+- [ ] Has the organization identified and documented all of its suppliers, vendors, and other third-party service providers?
+
+**Audit Evidence / Prüfpunkte:**
+- Vollständige Supplier-Liste dokumentiert
+- Genehmigung durch Management / Procurement
+- Nachweis der Datenquelle(n) für Supplier-Informationen
+- Historie der Aktualisierungen
+
+---
+
+## 2. Categorization & Prioritization
+- [ ] How does the organization categorize and prioritize its suppliers based on their level of criticality to operations and cybersecurity risk exposure?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Kategorien (z. B. Critical, High, Medium, Low)
+- Priorisierungsmethodik nachvollziehbar
+- Berücksichtigung von Risikofaktoren (Datenzugriff, Business Impact)
+- Mapping zu Risiko-Register oder ERM
+
+---
+
+## 3. Criteria for Criticality Assessment
+- [ ] What criteria does the organization use to assess the criticality of its suppliers (e.g., access to sensitive data, impact on business continuity, cybersecurity controls)?
+
+**Audit Evidence / Prüfpunkte:**
+- Bewertungsmetriken dokumentiert
+- Nachweis der Berücksichtigung von Datenschutz, Cybersecurity, BC/DR
+- Risikoanalyse-Dokumente
+- Management-Review-Protokolle
+
+---
+
+## 4. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for the identification, categorization, and prioritization of suppliers based on criticality?
+
+**Audit Evidence / Prüfpunkte:**
+- RACI-Matrix oder Governance-Dokumentation
+- Benannte Teams / Personen für Supplier Assessment
+- Eskalations- und Freigabeprozesse dokumentiert
+- Nachweis von Schulungen / Awareness
+
+---
+
+## 5. Periodic Review & Update
+- [ ] How often does the organization review and update its supplier criticality assessments to account for changes in the supplier landscape and risk environment?
+
+**Audit Evidence / Prüfpunkte:**
+- Review-Zyklus dokumentiert (jährlich oder bei Bedarf)
+- Protokolle von Review-Meetings
+- Aktualisierte Supplier-Ratings
+- Nachweis der Anpassung nach neuen Risiken
+
+---
+
+## 6. Alignment with Cybersecurity & ERM
+- [ ] Does the organization's supplier criticality prioritization align with its overall cybersecurity and enterprise risk management strategies?
+
+**Audit Evidence / Prüfpunkte:**
+- Mapping zwischen Supplier-Criticality und Cybersecurity- / ERM-Strategien
+- Management-Review-Dokumente
+- Integration in Risk Registers
+- Nachweis der Konsistenz mit Richtlinien
+
+---
+
+## 7. Communication of Criticality
+- [ ] How does the organization communicate the criticality assessments and priorities to relevant internal and external stakeholders?
+
+**Audit Evidence / Prüfpunkte:**
+- Kommunikationsplan dokumentiert
+- Mails, Workshops oder Reports an Stakeholder
+- Nachweis der Kenntnisnahme
+- Integration in Onboarding / Supplier Meetings
+
+---
+
+## 8. Monitoring & Validation
+- [ ] Are there processes in place to monitor and validate the accuracy of the supplier criticality assessments over time?
+
+**Audit Evidence / Prüfpunkte:**
+- Kontinuierliche Monitoring-Prozesse dokumentiert
+- Tools oder Reports zur Validierung
+- Anpassungen basierend auf Feedback oder Vorfällen
+- Nachweis von Management-Reviews
+
+---
+
+## 9. Centralized Repository
+- [ ] Does the organization have a centralized repository or system to maintain and manage information on its suppliers and their criticality levels?
+
+**Audit Evidence / Prüfpunkte:**
+- Supplier Management System dokumentiert
+- Zugriffskontrollen und Governance nachgewiesen
+- Historie der Änderungen gespeichert
+- Integration in Cybersecurity- und ERM-Prozesse
