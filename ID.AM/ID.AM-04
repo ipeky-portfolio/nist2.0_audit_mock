@@ -1,0 +1,59 @@
+# Supplier-Provided Services Inventory Management – Audit Checklist
+
+## 1. Inventory of Supplier-Provided Services
+- [ ] Does the organization maintain an inventory of services provided by its suppliers and third-party service providers?
+
+**Audit Evidence / Prüfpunkte:**
+- Vollständige Liste aller Services von Lieferanten und Drittanbietern
+- Nachweis der regelmäßigen Pflege und Aktualisierung
+- Integration in Cybersecurity- und Enterprise Risk Management Prozesse
+
+---
+
+## 2. Types of Supplier Services
+- [ ] What types of services provided by suppliers are included in the inventory (e.g., cloud services, managed services, outsourced services, software-as-a-service)?
+
+**Audit Evidence / Prüfpunkte:**
+- Kategorisierung der Services nach Typ (Cloud, Managed, SaaS, Outsourced)
+- Dokumentation der Servicekategorien und deren Kritikalität
+- Abgleich mit Vertrags- und Lieferantenmanagement
+
+---
+
+## 3. Accuracy & Currency
+- [ ] How does the organization ensure that the inventory of supplier-provided services is accurate and up-to-date?
+
+**Audit Evidence / Prüfpunkte:**
+- Prozesse zur regelmäßigen Überprüfung der Serviceinventare
+- Audit-Trails für Änderungen
+- Management-Reviews oder Reports zur Aktualität
+
+---
+
+## 4. Adding & Removing Services
+- [ ] Is there a defined process for adding new supplier-provided services to the inventory and removing discontinued services?
+
+**Audit Evidence / Prüfpunkte:**
+- SOPs oder Workflow-Dokumentation für Service-Onboarding/Offboarding
+- Nachweis der Anwendung in der Praxis
+- Genehmigungen durch zuständige Teams
+
+---
+
+## 5. Inventory Details
+- [ ] Does the inventory of supplier-provided services include relevant details such as service descriptions, service level agreements, security controls, and risk assessments?
+
+**Audit Evidence / Prüfpunkte:**
+- Vollständige Datensätze für jedes Serviceobjekt
+- Nachweis der Erfassung von SLAs, Security Controls und Risiken
+- Nutzung der Daten in Risiko- und Sicherheitsbewertungen
+
+---
+
+## 6. Detection of Unauthorized / Unmanaged Services
+- [ ] Are there mechanisms in place to monitor and detect unauthorized or unmanaged services provided by suppliers?
+
+**Audit Evidence / Prüfpunkte:**
+- Monitoring-Tools oder Prozesse für Serviceüberwachung
+- Alerts oder Reports bei nicht autorisierten Services
+- Nachweis von Korrekturmaßnahmen oder Eskalationen
