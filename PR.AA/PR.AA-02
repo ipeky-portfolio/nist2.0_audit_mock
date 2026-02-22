@@ -1,0 +1,25 @@
+# Identity Proofing & Credential Binding – Audit Checklist
+
+1. Proofing Processes
+- Does the organization have processes in place to proof identities and bind them to credentials based on the context of interactions?
+- Audit Evidence: Dokumentierte Prozesse/SOPs für Identity Proofing, Nachweis der Umsetzung
+
+2. Methods & Techniques
+- What methods or techniques are used for identity proofing (e.g., document verification, biometric authentication, third-party identity services)?
+- Audit Evidence: Verwendete Verfahren, Tools, und technische Nachweise
+
+3. Context-Based Proofing
+- How does the organization determine the appropriate level of identity proofing required based on the context and risk associated with different types of interactions?
+- Audit Evidence: Richtlinien oder Risiko-Matrix, Dokumentation der Proofing-Entscheidungen
+
+4. Binding Procedures
+- Are there defined procedures for securely binding proofed identities to the corresponding credentials?
+- Audit Evidence: SOPs für Credential Binding, Verschlüsselung oder sichere Speicherung
+
+5. Documentation & Records
+- Does the organization maintain records or documentation of the identity proofing and credential binding processes?
+- Audit Evidence: Audit-Trails, Logs, Proofing- und Binding-Berichte
+
+6. Fraud & Compromise Detection
+- Are there mechanisms in place to detect and prevent the use of fraudulent or compromised identities and credentials?
+- Audit Evidence: Monitoring-Systeme, Alerts, Incident Response-Nachweise
