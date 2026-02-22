@@ -1,0 +1,81 @@
+# Hardware & Software Authenticity and Integrity Assessment – Audit Checklist
+
+## 1. Assessment Processes
+- [ ] Does the organization have processes in place to assess the authenticity and integrity of hardware and software prior to acquisition and use?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte SOPs oder Richtlinien für Authentizitäts- und Integritätsprüfungen
+- Nachweis der Durchführung bei neuen Hardware- und Softwarekäufen
+
+---
+
+## 2. Verification Methods
+- [ ] What methods or techniques are used to verify the authenticity and integrity of hardware and software (e.g., digital signatures, secure boot, trusted platform modules)?
+
+**Audit Evidence / Prüfpunkte:**
+- Liste der eingesetzten Prüftechniken und -tools
+- Beispiele von Prüfberichten oder Logs
+
+---
+
+## 3. Consistency of Assessments
+- [ ] How does the organization ensure that the authenticity and integrity assessments are performed consistently and effectively across different types of hardware and software?
+
+**Audit Evidence / Prüfpunkte:**
+- Standardisierte Verfahren für unterschiedliche Asset-Typen
+- Trainingsmaterialien und Prozessanweisungen
+- Stichprobenprüfung der Umsetzung
+
+---
+
+## 4. Acceptance Criteria
+- [ ] Are there defined criteria or thresholds for determining the acceptable level of authenticity and integrity for hardware and software acquisitions?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Kriterien / Schwellenwerte
+- Beispiele für genehmigte vs. abgelehnte Assets
+
+---
+
+## 5. Recordkeeping
+- [ ] Does the organization maintain records or documentation of the authenticity and integrity assessments performed for acquired hardware and software?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis der Assessment-Dokumentation
+- Audit-Trails, Reports oder Datenbankeinträge
+
+---
+
+## 6. Handling Unverified Assets
+- [ ] How does the organization handle situations where the authenticity or integrity of hardware or software cannot be verified or validated?
+
+**Audit Evidence / Prüfpunkte:**
+- Vorgehensweisen / Workflows für nicht verifizierbare Assets
+- Beispiele für Maßnahmen (z. B. Quarantäne, Zurückweisung, zusätzliche Tests)
+
+---
+
+## 7. Monitoring & Detection
+- [ ] Are there mechanisms in place to monitor and detect potential tampering or unauthorized modifications to acquired hardware and software during their use or deployment?
+
+**Audit Evidence / Prüfpunkte:**
+- Monitoring-Tools (z. B. file integrity monitoring, hardware attestation)
+- Alerts oder Reports zu erkannten Anomalien
+
+---
+
+## 8. Training & Guidance
+- [ ] Does the organization provide training or guidance to personnel responsible for conducting authenticity and integrity assessments?
+
+**Audit Evidence / Prüfpunkte:**
+- Trainingsprogramme, Leitfäden, Anweisungen
+- Teilnahme- und Abschlussnachweise
+
+---
+
+## 9. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for assessing the authenticity and integrity of hardware and software acquisitions?
+
+**Audit Evidence / Prüfpunkte:**
+- Rollenbeschreibungen, RACI-Matrix
+- Verantwortlichkeiten für Security, Procurement und IT
