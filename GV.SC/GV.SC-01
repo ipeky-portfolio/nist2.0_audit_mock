@@ -1,0 +1,76 @@
+# Cybersecurity Supply Chain Risk Management – Audit Checklist
+
+## 1. Comprehensive Program, Strategy & Policies
+- [ ] Has the organization established a comprehensive cybersecurity supply chain risk management program, strategy, objectives, and policies?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentiertes Supply Chain Risk Management Program
+- Genehmigung durch Management / CISO
+- Verknüpfung zu Cybersecurity-Strategie und ERM
+- Historie und Versionierung der Richtlinien
+
+---
+
+## 2. Alignment with Overall Risk Frameworks
+- [ ] Are the cybersecurity supply chain risk management program, strategy, objectives, and policies aligned with the organization's overall cybersecurity and enterprise risk management frameworks?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis der Integration in ISMS und ERM
+- Mapping der Supply Chain Risiken zu Unternehmensrisiken
+- Management-Review-Protokolle
+- Konsistenzprüfung zwischen Richtlinien und Frameworks
+
+---
+
+## 3. Coverage of Third-Party Lifecycle
+- [ ] Do the policies and processes cover the entire lifecycle of third-party relationships, from onboarding to offboarding?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Onboarding- und Offboarding-Prozesse
+- Third-Party Risk Assessments für alle Lebenszyklusphasen
+- SLAs oder Verträge mit Sicherheitsanforderungen
+- Nachweis der Umsetzung in Praxisfällen
+
+---
+
+## 4. Identification, Assessment & Mitigation
+- [ ] Are there defined processes for identifying, assessing, and mitigating cybersecurity risks associated with the organization's supply chain?
+
+**Audit Evidence / Prüfpunkte:**
+- Risikoidentifikations- und Bewertungsprozess dokumentiert
+- Risikobehandlungspläne für Lieferantenrisiken
+- Tools oder Methoden zur Bewertung von Third-Party Risiken
+- Nachweis von umgesetzten Maßnahmen
+
+---
+
+## 5. Periodic Review & Updates
+- [ ] Does the organization periodically review and update the supply chain risk management program, strategy, objectives, and policies to address changes in requirements, threats, and technology?
+
+**Audit Evidence / Prüfpunkte:**
+- Review-Zyklus dokumentiert
+- Anpassungen nach Threat Intelligence oder regulatorischen Änderungen
+- Management-Review- oder Steering-Committee-Protokolle
+- Aktualisierte Richtlinienversionen
+
+---
+
+## 6. Compliance Monitoring & Enforcement
+- [ ] Are there mechanisms in place to monitor and enforce compliance with the organization's supply chain risk management policies and processes?
+
+**Audit Evidence / Prüfpunkte:**
+- KPI/KRI Monitoring für Lieferantenrisiken
+- Auditberichte und Compliance Checks
+- Eskalations- und Korrekturmaßnahmen dokumentiert
+- Nachweis von Management-Interventionen bei Nichteinhaltung
+
+---
+
+## 7. Training & Guidance
+- [ ] Does the organization provide training and guidance to personnel involved in managing cybersecurity supply chain risks?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis von Trainingsprogrammen für Supply Chain Teams
+- Schulungsmaterialien, SOPs oder Leitfäden
+- KPI/KRI Tracking für Teilnahme und Effektivität
+- Integration in Onboarding und fortlaufende Schulungen
