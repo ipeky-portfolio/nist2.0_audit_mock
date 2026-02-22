@@ -1,0 +1,80 @@
+# Incident Response & Cybersecurity Plans – Audit Checklist
+
+## 1. Existence of Plans
+- [ ] Does the organization have established incident response plans and other cybersecurity plans that affect operations?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Incident Response Plans (IRP), Business Continuity Plans (BCP), Disaster Recovery Plans (DRP)
+- Nachweis der formalen Genehmigung durch Management oder Governance-Boards
+
+---
+
+## 2. Plan Comprehensiveness & Alignment
+- [ ] How does the organization ensure that the incident response and other cybersecurity plans are comprehensive, up-to-date, and aligned with industry standards and best practices?
+
+**Audit Evidence / Prüfpunkte:**
+- Vergleich der Pläne mit Standards wie NIST SP 800-61, ISO/IEC 27035
+- Aktualisierungsprotokolle, Revision-Historien und Gap-Analysen
+
+---
+
+## 3. Communication
+- [ ] Are the incident response and other cybersecurity plans communicated to all relevant stakeholders, including personnel, suppliers, and relevant third parties?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis der Verteilung oder Veröffentlichung der Pläne
+- Kommunikationsrichtlinien, Schulungsunterlagen, Stakeholder-Verteilerlisten
+
+---
+
+## 4. Training & Awareness
+- [ ] Does the organization provide training or awareness programs to ensure that personnel understand and are prepared to execute the incident response and other cybersecurity plans?
+
+**Audit Evidence / Prüfpunkte:**
+- Trainingsmaterialien, Awareness-Kampagnen, Teilnahmeprotokolle
+- Übungen oder Simulationen zur Überprüfung der Umsetzungskompetenz
+
+---
+
+## 5. Review & Update Process
+- [ ] Are there processes in place for regularly reviewing and updating the incident response and other cybersecurity plans to reflect changes in the organization's risk landscape, technologies, or operational environment?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Review-Zyklen (z. B. jährlich oder nach kritischen Ereignissen)
+- Versionskontrolle und Änderungsprotokolle
+
+---
+
+## 6. Testing & Exercises
+- [ ] Does the organization conduct tests or exercises to validate the effectiveness of the incident response and other cybersecurity plans?
+
+**Audit Evidence / Prüfpunkte:**
+- Berichte über Penetration Tests, Tabletop Exercises, Live Simulations
+- Lessons Learned-Dokumentation und Action Items
+
+---
+
+## 7. Feedback & Improvement
+- [ ] Are there mechanisms in place to gather feedback and identify potential improvements to the incident response and other cybersecurity plans?
+
+**Audit Evidence / Prüfpunkte:**
+- Feedbackformulare, After-Action-Reports
+- Nachweis der Analyse von Übungen, Vorfällen und Lessons Learned
+
+---
+
+## 8. Prioritization & Implementation of Improvements
+- [ ] How does the organization prioritize and implement identified improvements to the incident response and other cybersecurity plans?
+
+**Audit Evidence / Prüfpunkte:**
+- Verbesserungspläne mit Verantwortlichkeiten, Prioritäten und Fristen
+- Monitoring und Status-Reports zur Umsetzung der Verbesserungen
+
+---
+
+## 9. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for establishing, maintaining, and improving the incident response and other cybersecurity plans?
+
+**Audit Evidence / Prüfpunkte:**
+- RACI-Matrix oder Stellenbeschreibungen
+- Verantwortlichkeiten für Security, IT Operations, Management und Drittparteien
