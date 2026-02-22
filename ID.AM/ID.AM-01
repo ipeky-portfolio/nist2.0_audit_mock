@@ -1,0 +1,89 @@
+# Hardware Asset Inventory Management – Audit Checklist
+
+## 1. Comprehensive Hardware Inventory
+- [ ] Does the organization maintain a comprehensive inventory of all hardware assets under its management?
+
+**Audit Evidence / Prüfpunkte:**
+- Vollständige Liste aller Hardware-Assets
+- Nachweis der Pflege und regelmäßigen Aktualisierung
+- Integration in Cybersecurity- und Asset-Management-Prozesse
+
+---
+
+## 2. Asset Types Included
+- [ ] What types of hardware assets are included in the inventory (e.g., servers, workstations, network devices, mobile devices, IoT devices)?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentation der Asset-Kategorien
+- Übersicht der Hardware-Typen im Inventory
+- Abgleich mit Unternehmens-IT-Architektur
+
+---
+
+## 3. Accuracy & Currency of Inventory
+- [ ] How does the organization ensure that the hardware inventory is accurate and up-to-date?
+
+**Audit Evidence / Prüfpunkte:**
+- Prozesse für regelmäßige Updates und Verifizierung
+- Audit-Trails für Inventaränderungen
+- Reports oder Tools für Konsistenzprüfung
+
+---
+
+## 4. Adding & Removing Assets
+- [ ] Is there a defined process for adding new hardware assets to the inventory and removing decommissioned or retired assets?
+
+**Audit Evidence / Prüfpunkte:**
+- SOPs für Onboarding/Offboarding von Hardware
+- Workflow-Dokumentation
+- Nachweis der Prozessanwendung in der Praxis
+
+---
+
+## 5. Inventory Details
+- [ ] Does the hardware inventory include relevant details such as asset owner, location, configuration, and security controls?
+
+**Audit Evidence / Prüfpunkte:**
+- Vollständige Asset-Datenfelder dokumentiert
+- Nachweis der Erfassung und Aktualisierung
+- Nutzung der Details für Risiko- und Sicherheitsmanagement
+
+---
+
+## 6. Use in Cybersecurity Risk Management
+- [ ] How is the hardware inventory information used to support cybersecurity risk management activities?
+
+**Audit Evidence / Prüfpunkte:**
+- Integration der Inventardaten in Risikoanalysen
+- Reports für Vulnerability Management, Patch Management
+- Nachweis von Management-Entscheidungen basierend auf Inventardaten
+
+---
+
+## 7. Detection of Unauthorized/Unmanaged Assets
+- [ ] Are there mechanisms in place to monitor and detect unauthorized or unmanaged hardware assets within the organization's environment?
+
+**Audit Evidence / Prüfpunkte:**
+- Network Discovery Tools / Asset Scanning
+- Alerts oder Reports bei unbekannten Assets
+- Prozesse zur Erfassung und Mitigation
+
+---
+
+## 8. Centralized System / Database
+- [ ] Does the organization have a centralized system or database for maintaining and managing the hardware inventory?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis eines zentralen Asset-Management-Systems
+- Zugriffskontrollen und Versionierung
+- Integration in CMDB oder ITSM
+
+---
+
+## 9. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for maintaining the hardware inventory?
+
+**Audit Evidence / Prüfpunkte:**
+- RACI oder Rollenbeschreibung dokumentiert
+- Verantwortlichkeiten für Aktualisierung, Audit und Reporting
+- Nachweis der Einhaltung durch Teams/Personen
