@@ -1,0 +1,59 @@
+# Data & Metadata Inventory Management – Audit Checklist
+
+## 1. Inventory of Data & Metadata
+- [ ] Does the organization maintain inventories of its data and corresponding metadata for designated data types?
+
+**Audit Evidence / Prüfpunkte:**
+- Vollständige Listen aller Datenobjekte und zugehöriger Metadaten
+- Nachweis der regelmäßigen Pflege und Aktualisierung
+- Integration in Cybersecurity- und Datenmanagement-Prozesse
+
+---
+
+## 2. Types of Data
+- [ ] What types of data are included in the inventories (e.g., sensitive data, proprietary data, customer data, intellectual property)?
+
+**Audit Evidence / Prüfpunkte:**
+- Kategorisierung nach Datenart (sensitiv, vertraulich, Kunden, IP, etc.)
+- Dokumentation der Datenkategorien und Klassifizierungen
+- Abgleich mit regulatorischen Anforderungen
+
+---
+
+## 3. Types of Metadata
+- [ ] What types of metadata are captured and maintained for the data inventories (e.g., data classification, data owners, access controls, retention policies)?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentation der Metadatenfelder (Owner, Klassifizierung, Zugriff, Retention)
+- Nachweis der Pflege und Konsistenz der Metadaten
+- Nutzung für Governance und Compliance
+
+---
+
+## 4. Accuracy & Currency
+- [ ] How does the organization ensure that the data and metadata inventories are accurate and up-to-date?
+
+**Audit Evidence / Prüfpunkte:**
+- Prozesse zur regelmäßigen Überprüfung und Validierung
+- Audit-Trails für Änderungen
+- Reports oder Management-Reviews zur Aktualität
+
+---
+
+## 5. Adding & Removing Data
+- [ ] Is there a defined process for adding new data and metadata to the inventories and removing obsolete or decommissioned data?
+
+**Audit Evidence / Prüfpunkte:**
+- SOPs für Daten-Onboarding und -Offboarding
+- Nachweis der Prozessanwendung in der Praxis
+- Genehmigungen und Dokumentation
+
+---
+
+## 6. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for maintaining the data and metadata inventories?
+
+**Audit Evidence / Prüfpunkte:**
+- Rollenbeschreibung oder RACI-Matrix
+- Verantwortlichkeiten für Pflege, Review und Audit
+- Nachweis von Schulungen und Awareness
