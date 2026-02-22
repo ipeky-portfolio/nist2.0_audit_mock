@@ -1,0 +1,54 @@
+# Cybersecurity Risk Communication – Audit Checklist
+
+## 1. Established Communication Channels
+- [ ] Has the organization established and documented clear lines of communication for sharing information about cybersecurity risks across the organization?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Kommunikationsrichtlinien / Policy
+- Organigramm oder Kommunikationsmatrix
+- Genehmigung durch Management / CISO
+- Nachweis der implementierten Kanäle (Intranet, Meetings, Reports)
+
+---
+
+## 2. Vertical & Horizontal Information Flows
+- [ ] Do these communication channels include both vertical (leadership → operational teams) and horizontal (across business units / functions) information flows?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Flussdiagramme / Kommunikationswege
+- Nachweis von Informationsweitergabe zwischen Abteilungen
+- Management-Review oder Board-Reporting
+- Feedbackmechanismen zur Wirksamkeit
+
+---
+
+## 3. Roles & Responsibilities
+- [ ] Are the roles and responsibilities for communicating and escalating cybersecurity risks, including risks from suppliers and third parties, defined and understood?
+
+**Audit Evidence / Prüfpunkte:**
+- RACI-Matrix oder Zuständigkeitsdokumentation
+- Benannte Risiko-Escalation-Owner
+- Dokumentierte Eskalationsprozesse für Third-Party-Risiken
+- Schulungs- oder Awareness-Nachweise
+
+---
+
+## 4. Documented Communication Processes
+- [ ] Are the communication processes and protocols for sharing information about cybersecurity risks documented and communicated to relevant stakeholders?
+
+**Audit Evidence / Prüfpunkte:**
+- Richtlinien / SOPs für Risiko-Kommunikation
+- Nachweis der Verteilung und Kenntnisnahme
+- Kommunikationsplan für verschiedene Szenarien
+- Protokollierte Umsetzung in Operational Teams
+
+---
+
+## 5. Timely & Effective Communication
+- [ ] Does the organization have a mechanism to ensure timely and effective communication of cybersecurity risks to the appropriate decision-makers and stakeholders?
+
+**Audit Evidence / Prüfpunkte:**
+- Eskalationsmechanismus dokumentiert
+- KPI/KRI Monitoring für Risiko-Kommunikation
+- Management-Reports / Dashboards
+- Lessons Learned aus Vorfällen zur Verbesserung der Kommunikation
