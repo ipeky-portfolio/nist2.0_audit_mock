@@ -1,0 +1,76 @@
+# Supplier & Third-Party Incident Planning, Response, and Recovery – Audit Checklist
+
+## 1. Defined Roles & Responsibilities
+- [ ] Has the organization identified and documented the roles and responsibilities of its suppliers and other third-party service providers in its incident planning, response, and recovery processes?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Rollen und Verantwortlichkeiten der Supplier/Third Parties
+- Integration in Incident Response & Business Continuity Plans
+- Genehmigung durch Management / CISO
+- Historie der Anpassungen
+
+---
+
+## 2. Communication & Coordination
+- [ ] How are the incident response and recovery requirements communicated to and coordinated with the organization's suppliers and third-party service providers?
+
+**Audit Evidence / Prüfpunkte:**
+- Kommunikationsplan für Incident Response Requirements
+- Nachweis von Meetings, Workshops oder verteilten Richtlinien
+- Bestätigung der Kenntnisnahme durch Supplier/Third Parties
+- Integration in Onboarding-Prozesse
+
+---
+
+## 3. Reporting & Escalation
+- [ ] Are there clear processes in place for suppliers and third parties to report and escalate cybersecurity incidents that may impact the organization?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Reporting- und Eskalationsprozesse
+- Kontaktstellen / Ansprechpartner für Supplier-IR
+- Nachweis von Vorfall-Reports oder Testfällen
+- SOPs oder Handbücher für Supplier
+
+---
+
+## 4. Procedures for Engagement & Collaboration
+- [ ] Does the organization's incident response and recovery plans include specific procedures for engaging and collaborating with suppliers and third parties during a cybersecurity incident?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Abläufe zur Zusammenarbeit bei Vorfällen
+- Rollen- und Kommunikationsmatrix
+- Szenarien oder Playbooks für Supplier-Engagement
+- Management-Review der Pläne
+
+---
+
+## 5. Testing & Validation
+- [ ] How does the organization test and validate the involvement of suppliers and third parties in its incident planning, response, and recovery exercises?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis von Incident Response-Übungen mit Supplier-Beteiligung
+- Testpläne und Ergebnisse dokumentiert
+- Lessons Learned-Dokumentation
+- Management-Freigaben oder Feedback-Loops
+
+---
+
+## 6. Supplier/Third-Party Incident Readiness
+- [ ] Are there mechanisms in place to ensure that suppliers and third parties maintain and regularly test their own incident response and business continuity capabilities?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis der Supplier-IR/BC-Tests
+- Anforderungen in Verträgen oder SLAs verankert
+- Reports oder Zertifikate der Supplier-Tests
+- Nachweis von Compliance-Prüfungen
+
+---
+
+## 7. Monitoring & Compliance Enforcement
+- [ ] How does the organization monitor and enforce the compliance of its suppliers and third parties with the incident planning, response, and recovery requirements?
+
+**Audit Evidence / Prüfpunkte:**
+- Monitoring-Prozesse dokumentiert
+- KPI/KRI Tracking für Supplier-Compliance
+- Auditberichte oder Third-Party Assessments
+- Eskalationsprozesse bei Nichteinhaltung
