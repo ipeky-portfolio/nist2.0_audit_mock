@@ -1,0 +1,99 @@
+# Vulnerability Management – Asset Vulnerability Identification – Audit Checklist
+
+## 1. Vulnerability Identification Process
+- [ ] Does the organization have a process in place to identify vulnerabilities in its assets (e.g., systems, applications, hardware, software)?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierter Prozess für Vulnerability Identification
+- Nachweis regelmäßiger Durchführung von Scans oder Assessments
+- Integration in Cybersecurity- und Risk-Management-Prozesse
+
+---
+
+## 2. Sources of Vulnerability Information
+- [ ] What sources of vulnerability information does the organization utilize (e.g., vendor advisories, threat intelligence feeds, vulnerability databases)?
+
+**Audit Evidence / Prüfpunkte:**
+- Liste genutzter Quellen (z. B. NVD, CVE, Vendor Advisories, Threat Feeds)
+- Dokumentation der systematischen Nutzung für Asset-Risk-Assessments
+- Nachweis der Aktualisierung basierend auf neuen Bedrohungen
+
+---
+
+## 3. Validation of Vulnerabilities
+- [ ] How does the organization validate the identified vulnerabilities to ensure their relevance and applicability?
+
+**Audit Evidence / Prüfpunkte:**
+- Validierungsprozess oder SOPs für Vulnerabilities
+- Nachweis von Tests, Analysen oder Reviews
+- Dokumentation der Entscheidungskriterien zur Relevanz und Anwendbarkeit
+
+---
+
+## 4. Centralized Repository
+- [ ] Is there a centralized repository or system for recording and tracking identified vulnerabilities?
+
+**Audit Evidence / Prüfpunkte:**
+- Zentralisierte Vulnerability-Management-Tool oder Datenbank
+- Vollständige, aktuelle Aufzeichnungen der identifizierten Schwachstellen
+- Nutzung für Reporting, Mitigation und Priorisierung
+
+---
+
+## 5. Vulnerability Details
+- [ ] Does the vulnerability information include details such as severity, impact, affected assets, and potential mitigations?
+
+**Audit Evidence / Prüfpunkte:**
+- Erfassung von Severity (z. B. CVSS), Impact, betroffenen Assets und empfohlenen Maßnahmen
+- Nachweis der Nutzung dieser Informationen für Priorisierung
+- Dokumentation der Risikobewertung pro Vulnerability
+
+---
+
+## 6. Accuracy & Currency
+- [ ] How does the organization ensure that vulnerability information is kept up-to-date and reflects the current state of its assets?
+
+**Audit Evidence / Prüfpunkte:**
+- Regelmäßige Scans, Patch- und Monitoring-Reports
+- Prozess zur Aktualisierung und Validierung der Vulnerability-Daten
+- Nachweis der Konsistenz mit aktuellem Asset-Inventar
+
+---
+
+## 7. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for the identification, validation, and recording of vulnerabilities?
+
+**Audit Evidence / Prüfpunkte:**
+- RACI-Matrix oder Rollenbeschreibungen
+- Verantwortlichkeiten für Scanning, Validation, Reporting
+- Nachweis der Umsetzung durch zuständige Teams
+
+---
+
+## 8. Training & Guidance
+- [ ] Does the organization provide training or guidance to personnel involved in vulnerability management activities?
+
+**Audit Evidence / Prüfpunkte:**
+- Schulungsprogramme, Awareness-Materialien oder SOP-Handbücher
+- Nachweis der Teilnahme von Mitarbeitern
+- Dokumentation der Anwendung in der Praxis
+
+---
+
+## 9. Leadership Oversight
+- [ ] How does the organization's leadership oversee and monitor the effectiveness of the vulnerability identification and management processes?
+
+**Audit Evidence / Prüfpunkte:**
+- Reports, KPI-Dashboards oder Management-Reviews
+- Nachweis von Entscheidungen basierend auf Vulnerability-Daten
+- Dokumentation der kontinuierlichen Verbesserung
+
+---
+
+## 10. Prioritization & Risk-Based Mitigation
+- [ ] Are there mechanisms in place to prioritize and address identified vulnerabilities based on risk assessments?
+
+**Audit Evidence / Prüfpunkte:**
+- Risiko-basierte Priorisierungsmatrix
+- Nachweis von Maßnahmen entsprechend Risikobewertung
+- Integration in Cybersecurity-Risikomanagement und Asset Management
