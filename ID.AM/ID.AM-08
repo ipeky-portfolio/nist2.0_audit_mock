@@ -1,0 +1,59 @@
+# Asset & System Lifecycle Management – Audit Checklist
+
+## 1. Defined Lifecycle Management Processes
+- [ ] Does the organization have defined processes for managing systems, hardware, software, services, and data throughout their life cycles?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Prozesse für Lifecycle Management
+- Integration in Cybersecurity- und IT-Management-Prozesse
+- Nachweis von Management-Freigaben und Reviews
+
+---
+
+## 2. Lifecycle Stages Covered
+- [ ] What stages of the life cycle are covered by the organization's management processes (e.g., acquisition, deployment, configuration, maintenance, disposal)?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis der abgedeckten Phasen für jedes Asset oder System
+- SOPs oder Workflow-Dokumentation
+- Checklisten oder Kontrollen für jede Phase
+
+---
+
+## 3. Integration of Cybersecurity Requirements
+- [ ] How does the organization ensure that cybersecurity requirements and controls are integrated into the life cycle management processes?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentation von Sicherheitsanforderungen in Lifecycle-Prozessen
+- Nachweis der Implementierung von Sicherheitskontrollen
+- Abgleich mit Policies, Standards und regulatorischen Vorgaben
+
+---
+
+## 4. Monitoring & Compliance
+- [ ] Are there mechanisms in place to monitor and enforce compliance with the life cycle management processes?
+
+**Audit Evidence / Prüfpunkte:**
+- Audits, Reviews oder Monitoring-Tools
+- Reports zu Abweichungen und Korrekturmaßnahmen
+- Nachweis der Durchsetzung durch IT- und Security-Teams
+
+---
+
+## 5. Decommissioning & Secure Disposal
+- [ ] How does the organization ensure that systems, hardware, software, services, and data are properly decommissioned or securely disposed of at the end of their life cycles?
+
+**Audit Evidence / Prüfpunkte:**
+- Prozesse für sichere Stilllegung und Datenlöschung
+- Nachweis der Einhaltung von Standards (z. B. NIST, ISO 27001)
+- Dokumentation von abgeschlossenen Decommissioning-Aktivitäten
+
+---
+
+## 6. Risk & Vulnerability Mitigation
+- [ ] Are there processes in place to address and mitigate any risks or vulnerabilities identified during the life cycle management activities?
+
+**Audit Evidence / Prüfpunkte:**
+- Risiko- und Schwachstellen-Management für Lifecycle-Phasen
+- Nachweis von Risikobehandlung und Korrekturmaßnahmen
+- Integration in das Gesamt-Cybersecurity-Risikomanagement
