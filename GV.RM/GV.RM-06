@@ -1,0 +1,65 @@
+# Cybersecurity Risk Assessment Methodology – Audit Checklist
+
+## 1. Standardized Methodology
+- [ ] Has the organization developed and documented a standardized methodology for assessing, categorizing, and prioritizing cybersecurity risks?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Risk Assessment Methodology (SOP / Policy)
+- Genehmigung durch Management / CISO
+- Verknüpfung zu Unternehmensstrategie und ISMS
+- Referenz zu Standards (ISO 27005, NIST SP 800-30)
+
+---
+
+## 2. Consideration of Key Factors
+- [ ] Does the methodology consider factors such as asset criticality, threat likelihood, impact, and risk tolerance?
+
+**Audit Evidence / Prüfpunkte:**
+- Bewertungsmodell dokumentiert (z. B. Risiko-Matrix)
+- Definition von Kritikalität, Wahrscheinlichkeit und Impact
+- Berücksichtigung von Risk Appetite & Tolerance
+- Beispiele für Anwendung auf kritische Assets
+
+---
+
+## 3. Consistent Application
+- [ ] Is the risk assessment methodology consistently applied across the organization?
+
+**Audit Evidence / Prüfpunkte:**
+- Richtlinien zur einheitlichen Anwendung
+- Nachweis durch Audit / Stichproben
+- Dokumentierte Anwendung in allen Business Units / IT-Teams
+- Rollen- und Verantwortlichkeitsmatrix
+
+---
+
+## 4. Centralized Documentation of Results
+- [ ] Are the results of risk assessments documented in a centralized and standardized manner?
+
+**Audit Evidence / Prüfpunkte:**
+- Zentrales Risk Register / Tool
+- Standardisierte Reporting-Vorlagen
+- Versionskontrolle / Änderungsprotokolle
+- Nachweis der Aktualität und Vollständigkeit
+
+---
+
+## 5. Communication of Categories & Prioritization
+- [ ] Are the risk categories and prioritization criteria communicated to relevant stakeholders throughout the organization?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Kommunikation (Policies, Trainings)
+- Stakeholder-Workshops oder Awareness-Sessions
+- Nachweis der Kenntnisnahme durch relevante Rollen
+- Reporting im Management / Board-Reporting
+
+---
+
+## 6. Periodic Review & Update
+- [ ] Does the organization regularly review and update the risk assessment methodology to ensure it remains appropriate and effective?
+
+**Audit Evidence / Prüfpunkte:**
+- Definierter Review-Zyklus
+- Versionshistorie dokumentiert
+- Lessons Learned aus Risikoevents oder Audits
+- Anpassungen nach Änderungen der Bedrohungslage oder Unternehmensstrategie
