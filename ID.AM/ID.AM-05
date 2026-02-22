@@ -1,0 +1,99 @@
+# Asset Prioritization Management – Audit Checklist
+
+## 1. Defined Asset Prioritization Process
+- [ ] Does the organization have a defined process for prioritizing its assets based on classification, criticality, resources, and impact on the mission?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierter Asset Prioritization Prozess
+- Integration in Cybersecurity- und Risk-Management-Prozesse
+- Nachweis von Management-Freigaben und Reviews
+
+---
+
+## 2. Criteria for Classification & Criticality
+- [ ] What criteria or factors are used to determine the classification and criticality of assets (e.g., confidentiality, integrity, availability, regulatory requirements, business impact)?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Kriterien für Asset-Klassifizierung
+- Beispiele für Risiko- und Impact-Bewertungen
+- Abgleich mit regulatorischen und strategischen Anforderungen
+
+---
+
+## 3. Resource Assessment
+- [ ] How does the organization assess the resources required to protect and maintain different types of assets?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis von Ressourcenanalysen (financial, personnel, technical)
+- Integration in Budgetierungs- und Zuweisungsprozesse
+- Dokumentation der Entscheidungsgrundlagen
+
+---
+
+## 4. Mission Impact Evaluation
+- [ ] How does the organization evaluate the potential impact on its mission and objectives if specific assets are compromised or unavailable?
+
+**Audit Evidence / Prüfpunkte:**
+- Risikoanalysen und Business Impact Assessments
+- Szenarioanalysen und Simulationen
+- Berichte für Management und Leadership
+
+---
+
+## 5. Review & Update Mechanisms
+- [ ] Are there mechanisms in place to periodically review and update the asset prioritization based on changes in the organization's risk landscape or mission requirements?
+
+**Audit Evidence / Prüfpunkte:**
+- SOPs für regelmäßige Reviews
+- Audit-Trails und Dokumentation der Anpassungen
+- Nachweis von Management-Freigaben
+
+---
+
+## 6. Use in Cybersecurity Risk Management
+- [ ] How is the asset prioritization information used to support cybersecurity risk management activities and resource allocation decisions?
+
+**Audit Evidence / Prüfpunkte:**
+- Integration in Risiko- und Sicherheitsbewertung
+- Nutzung für Patch Management, Vulnerability Management
+- Nachweis der Nutzung bei Ressourcenzuweisung
+
+---
+
+## 7. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for conducting asset prioritization activities?
+
+**Audit Evidence / Prüfpunkte:**
+- RACI oder Rollenbeschreibungen
+- Verantwortlichkeiten für Reviews, Updates und Reporting
+- Nachweis der Einhaltung durch Teams
+
+---
+
+## 8. Training & Guidance
+- [ ] Does the organization provide training or guidance to personnel involved in asset prioritization processes?
+
+**Audit Evidence / Prüfpunkte:**
+- Schulungsunterlagen und Awareness-Materialien
+- Nachweis von Trainings-Teilnahme
+- Dokumentation der Umsetzung in Prozessen
+
+---
+
+## 9. Leadership Oversight
+- [ ] How does the organization's leadership oversee and ensure the effectiveness of the asset prioritization process?
+
+**Audit Evidence / Prüfpunkte:**
+- Management-Reviews und KPI-Berichte
+- Dokumentation von Entscheidungen und Freigaben
+- Nachweis der kontinuierlichen Verbesserung
+
+---
+
+## 10. Validation & Audit of Results
+- [ ] Are there mechanisms in place to validate and audit the asset prioritization results for accuracy and consistency?
+
+**Audit Evidence / Prüfpunkte:**
+- Periodische Audits und Validierungen
+- Nachweis von Korrekturmaßnahmen bei Abweichungen
+- Berichte an Leadership oder Governance Gremien
