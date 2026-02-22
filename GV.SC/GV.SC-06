@@ -1,0 +1,65 @@
+# Supplier & Third-Party Cybersecurity Due Diligence – Audit Checklist
+
+## 1. Defined Due Diligence Process
+- [ ] Does the organization have a defined process for conducting due diligence on potential suppliers and other third-party service providers before entering into a formal relationship?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierter Due-Diligence-Prozess
+- Genehmigung durch Management / Procurement / CISO
+- Historie der Überprüfungen
+- Integration in Governance- oder ERM-Richtlinien
+
+---
+
+## 2. Cybersecurity Assessments & Checks
+- [ ] What types of cybersecurity-related assessments and checks are performed as part of the due diligence process (e.g., security controls, risk assessments, incident history)?
+
+**Audit Evidence / Prüfpunkte:**
+- Checklisten oder Assessment-Templates
+- Nachweis durch Reports oder Bewertungsdokumente
+- Einbeziehung von Security Controls, Risikoanalysen, Incident History
+- Referenzen auf Standards (z. B. ISO 27001, NIST)
+
+---
+
+## 3. Evaluation of Potential Cybersecurity Risks
+- [ ] How does the organization evaluate the potential cybersecurity risks associated with a supplier or third-party before onboarding them?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Risiko-Bewertungsmethodik
+- Risiko-Klassifizierung (High/Medium/Low) und Priorisierung
+- Integration in Risk Registers oder Supplier-Risk-Dashboards
+- Nachweis der Management-Entscheidungen basierend auf Bewertung
+
+---
+
+## 4. Criteria & Thresholds for Acceptability
+- [ ] Are there clear criteria and thresholds established for determining the acceptability of cybersecurity risks posed by potential suppliers and third parties?
+
+**Audit Evidence / Prüfpunkte:**
+- Definition von Risiko-Schwellenwerten dokumentiert
+- Entscheidungsmatrix oder Bewertungsrichtlinien
+- Nachweis der Anwendung bei Onboarding-Entscheidungen
+- Management-Freigaben bei Überschreitung von Toleranzen
+
+---
+
+## 5. Financial & Business Continuity Assessment
+- [ ] Does the organization's due diligence process include an assessment of the supplier's or third-party's financial stability, ownership structure, and overall business continuity capabilities?
+
+**Audit Evidence / Prüfpunkte:**
+- Finanzberichte, Ownership-Dokumentation oder Ratings
+- Business Continuity / Disaster Recovery Assessment
+- Integration in Due-Diligence-Reports
+- Nachweis der Verwendung in Onboarding-Entscheidungen
+
+---
+
+## 6. Documentation & Communication of Results
+- [ ] How does the organization document and communicate the results of the due diligence process to the relevant stakeholders involved in the supplier or third-party selection decision?
+
+**Audit Evidence / Prüfpunkte:**
+- Due-Diligence-Reports dokumentiert
+- Verteilung an relevante Stakeholder (Procurement, Security, Management)
+- Nachweis der Kenntnisnahme und Genehmigung
+- Protokolle oder Entscheidungsmemos
