@@ -1,0 +1,90 @@
+# Vulnerability Disclosure Management – Audit Checklist
+
+## 1. Processes for Vulnerability Disclosures
+- [ ] Does the organization have established processes for receiving, analyzing, and responding to vulnerability disclosures?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Prozesse oder SOPs für Vulnerability Disclosure Management
+- Nachweis der Umsetzung dieser Prozesse
+
+---
+
+## 2. Channels for Receiving Vulnerabilities
+- [ ] What channels or mechanisms are in place for receiving vulnerability disclosures (e.g., vendor notifications, security researchers, public disclosures)?
+
+**Audit Evidence / Prüfpunkte:**
+- Liste der Empfangskanäle
+- Richtlinien oder SLAs für eingehende Vulnerability Notifications
+
+---
+
+## 3. Analysis & Validation
+- [ ] How does the organization analyze and validate the credibility and severity of received vulnerability disclosures?
+
+**Audit Evidence / Prüfpunkte:**
+- Bewertungsmethoden und Templates
+- Beispiele für validierte Vulnerabilities
+- Nachweis der Risikoklassifizierung
+
+---
+
+## 4. Centralized Recording
+- [ ] Does the organization have a centralized system or database for recording and tracking vulnerability disclosures?
+
+**Audit Evidence / Prüfpunkte:**
+- Zentrales Tracking-System oder Ticketing-Lösung
+- Historie und Audit-Trail für Disclosure-Management
+
+---
+
+## 5. Captured Information
+- [ ] What information is captured and maintained for each vulnerability disclosure (e.g., description, affected assets, severity, mitigation guidance)?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentation der erfassten Felder
+- Beispiele für vollständige Disclosure-Einträge
+
+---
+
+## 6. Prioritization Criteria
+- [ ] Are there defined criteria or processes for prioritizing the analysis and response to vulnerability disclosures?
+
+**Audit Evidence / Prüfpunkte:**
+- Priorisierungsrichtlinien basierend auf Risiko, Asset-Kritikalität, oder CVSS Scores
+- Nachweis der Anwendung bei tatsächlichen Disclosures
+
+---
+
+## 7. Mitigation & Remediation
+- [ ] How does the organization determine and implement appropriate mitigation or remediation actions in response to validated vulnerability disclosures?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Maßnahmenpläne oder Workflows
+- Beispiele für implementierte Remediation oder Patches
+
+---
+
+## 8. Communication to Stakeholders
+- [ ] Are there mechanisms in place to communicate relevant vulnerability information and mitigation guidance to stakeholders and affected parties?
+
+**Audit Evidence / Prüfpunkte:**
+- Kommunikationsprozesse oder Templates
+- Nachweis der Benachrichtigung von Stakeholdern und betroffenen Parteien
+
+---
+
+## 9. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for receiving, analyzing, and responding to vulnerability disclosures?
+
+**Audit Evidence / Prüfpunkte:**
+- Rollenbeschreibung und RACI-Matrix
+- Verantwortlichkeiten für Security, IT, und Management
+
+---
+
+## 10. Leadership Oversight
+- [ ] How does the organization's leadership oversee and ensure the effectiveness of the vulnerability disclosure management processes?
+
+**Audit Evidence / Prüfpunkte:**
+- Management-Reviews oder Governance-Berichte
+- KPIs und Monitoring-Berichte zur Effektivität des Disclosure-Prozesses
