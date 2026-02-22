@@ -1,0 +1,99 @@
+# Cybersecurity Risk Analysis & Prioritization – Audit Checklist
+
+## 1. Use of Threat & Vulnerability Information
+- [ ] Does the organization utilize the information on threats, vulnerabilities, likelihoods, and impacts to understand its inherent cybersecurity risk?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis, dass Threat- und Vulnerability-Informationen für Risikoanalyse genutzt werden
+- Dokumentierte Integration in Cybersecurity Risk Management Prozesse
+- Beispiele für Risiko-Reports oder Risk Registers
+
+---
+
+## 2. Integration & Correlation
+- [ ] How does the organization integrate and correlate the information on threats, vulnerabilities, likelihoods, and impacts to develop a comprehensive risk picture?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Methodik zur Korrelation von Bedrohungen, Schwachstellen, Eintrittswahrscheinlichkeit und Impact
+- Tools oder Dashboards zur Risikoaggregation
+- Nachweis der Nutzung für Risikoberichterstattung und Entscheidungsfindung
+
+---
+
+## 3. Risk Analysis Methodologies
+- [ ] Are there methodologies or frameworks in place to analyze and prioritize risks based on the assessed threats, vulnerabilities, likelihoods, and impacts?
+
+**Audit Evidence / Prüfpunkte:**
+- Nutzung von ISO 27005, NIST RMF, FAIR oder internen Frameworks
+- Dokumentation von Risiko-Scoring und Priorisierung
+- Beispiele für Risiko-Priorisierungsergebnisse
+
+---
+
+## 4. Risk Tolerance & Appetite
+- [ ] How does the organization determine its risk tolerance and appetite levels, and how are these factored into the risk analysis and prioritization?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Risikoappetit- und Toleranzwerte
+- Nachweis, dass diese in Risikoanalyse und Priorisierung einfließen
+- Entscheidungsguidelines oder Managementrichtlinien
+
+---
+
+## 5. Centralized Risk Dashboard
+- [ ] Is there a centralized system or dashboard for presenting and reporting the organization's overall cybersecurity risk posture?
+
+**Audit Evidence / Prüfpunkte:**
+- Zentralisiertes Risk-Dashboard oder Reporting-System
+- Übersicht aller wesentlichen Risiken, Prioritäten und Trends
+- Zugriff für relevante Stakeholder und Management
+
+---
+
+## 6. Risk-Informed Decision-Making
+- [ ] How does the organization utilize the risk analysis and prioritization to inform its risk response strategies and decision-making?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis, dass Priorisierung in Entscheidungsprozesse einfließt
+- Integration in Risiko-Behandlungspläne (accept, mitigate, transfer, avoid)
+- Dokumentation von Entscheidungen basierend auf Risikoanalyse
+
+---
+
+## 7. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for the analysis and prioritization of cybersecurity risks?
+
+**Audit Evidence / Prüfpunkte:**
+- Rollenbeschreibung / RACI-Matrix für Risk Analysis
+- Verantwortlichkeiten für Durchführung, Reporting und Eskalation
+- Nachweis der Umsetzung durch Security- und Risk-Teams
+
+---
+
+## 8. Training & Guidance
+- [ ] Does the organization provide training or guidance to personnel involved in risk analysis and decision-making activities?
+
+**Audit Evidence / Prüfpunkte:**
+- Schulungsprogramme, SOPs oder Handbücher
+- Teilnahme- und Trainingsnachweise
+- Praktische Anwendung der Risikoanalyse
+
+---
+
+## 9. Leadership Oversight
+- [ ] How does the organization's leadership oversee and monitor the effectiveness of the risk analysis and prioritization processes?
+
+**Audit Evidence / Prüfpunkte:**
+- Management-Reviews, KPI-Reports, Auditberichte
+- Dokumentation von Entscheidungen basierend auf Risikoanalyse
+- Nachweis kontinuierlicher Verbesserung
+
+---
+
+## 10. Continuous Monitoring & Update
+- [ ] Are there mechanisms in place to continuously monitor and update the risk analysis and prioritization based on changes in the threat landscape or organizational context?
+
+**Audit Evidence / Prüfpunkte:**
+- Regelmäßige Aktualisierung der Risikoanalyse
+- Integration neuer Bedrohungen, Schwachstellen oder organisatorischer Änderungen
+- Dokumentation der Anpassungen und Managemententscheidungen
