@@ -1,0 +1,41 @@
+# Identity & Credential Management – Audit Checklist
+
+1. Defined Process
+- Does the organization have a defined process for managing identities and credentials for authorized users, services, and hardware?
+- Audit Evidence: Dokumentierte IAM-Prozesse und SOPs, Nachweis der Umsetzung
+
+2. Unique Assignment & Accurate Association
+- How does the organization ensure that identities and credentials are uniquely assigned and accurately associated with the corresponding users, services, or hardware?
+- Audit Evidence: Verfahren zur eindeutigen Kennzeichnung von Accounts und Geräten, Systemnachweise/Logs
+
+3. Lifecycle Management
+- What mechanisms are in place to create, modify, disable, and revoke identities and credentials in a timely and secure manner?
+- Audit Evidence: Dokumentierte Workflows für User Lifecycle Management, Beispiele für Änderungsanfragen
+
+4. Centralized Repository
+- Does the organization maintain a centralized repository or system for managing and storing identities and credentials?
+- Audit Evidence: IAM-Systeme, Directory Services, Audit-Trails, Zugriffskontrollen
+
+5. Periodic Review & Validation
+- Are there processes in place to periodically review and validate the active identities and credentials to ensure their continued necessity and accuracy?
+- Audit Evidence: Regelmäßige Account-Reviews / Access Certifications, Berichte über deaktivierte Accounts
+
+6. Monitoring & Detection
+- How does the organization monitor and detect the use of unauthorized or compromised identities and credentials?
+- Audit Evidence: SIEM-Systeme, Logs, Alerts, Incident-Response Nachweise
+
+7. Policies & Procedures
+- Are there defined policies and procedures for the secure handling, storage, and protection of credentials (e.g., password policies, multi-factor authentication, encryption)?
+- Audit Evidence: Dokumentierte Password- und MFA-Richtlinien, Verschlüsselungskonzepte
+
+8. Training & Guidance
+- Does the organization provide training or guidance to personnel on the proper management and use of identities and credentials?
+- Audit Evidence: Awareness-Programme, Trainingsmaterialien, Teilnahmeprotokolle
+
+9. Roles & Responsibilities
+- Are there clear roles and responsibilities assigned for the management of identities and credentials across the organization?
+- Audit Evidence: RACI-Matrix, Rollenbeschreibungen, Verantwortlichkeiten für Security, IT, Management
+
+10. Leadership Oversight
+- How does the organization's leadership ensure the effectiveness of the identity and credential management processes?
+- Audit Evidence: Management-Reviews, KPIs, Audit-Reports, Governance-Nachweise
