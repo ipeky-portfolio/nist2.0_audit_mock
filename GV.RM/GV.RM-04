@@ -1,0 +1,66 @@
+# Cybersecurity Risk Response Strategy – Audit Checklist
+
+## 1. Defined Strategic Direction
+- [ ] Has the organization defined and documented its strategic direction for cybersecurity risk response options?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentiertes Risk Response Strategy-Dokument
+- Genehmigung durch Management / Vorstand
+- Verbindung zu Unternehmensstrategie und Cybersecurity-Risiko-Richtlinien
+- Verknüpfung zu Risk Appetite und Toleranz
+
+---
+
+## 2. Consideration of Risk Appetite, Tolerance & Resources
+- [ ] Does the strategic direction consider factors such as the organization's risk appetite, tolerance, and available resources?
+
+**Audit Evidence / Prüfpunkte:**
+- Nachweis, dass Risk Appetite & Tolerance berücksichtigt werden
+- Ressourcen- und Budgetplanung dokumentiert
+- Entscheidungskriterien für Risikoakzeptanz oder -minderung
+- Management-Review oder Board-Freigabe
+
+---
+
+## 3. Communication of Risk Response Options
+- [ ] Are the risk response options (e.g., accept, mitigate, transfer, avoid) clearly described and communicated to relevant stakeholders?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Risk Response Options
+- Interne Kommunikation (Policies, Trainings, Awareness)
+- Stakeholder-Verständnis nachweisbar (Protokolle, Trainings)
+- Integration in Incident Response und Risk Management Prozesse
+
+---
+
+## 4. Decision Criteria & Process
+- [ ] Are the criteria and decision-making processes for selecting appropriate risk response options defined and understood across the organization?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Entscheidungsprozesse
+- RACI-Matrix oder Governance-Dokumentation
+- Eskalations- und Genehmigungsprozesse
+- Nachweis der Schulung relevanter Rollen
+
+---
+
+## 5. Alignment with Risk Management Strategy & ERM
+- [ ] Are the risk response options aligned with the organization's overall cybersecurity risk management strategy and enterprise risk management approach?
+
+**Audit Evidence / Prüfpunkte:**
+- Mapping Risk Response Options → Cybersecurity Strategy
+- Integration in Enterprise Risk Management (ERM)
+- Management Review-Protokolle
+- Nachweis von konsistenten Entscheidungen über alle Risikoelemente
+
+---
+
+## 6. Monitoring & Adjustment
+- [ ] Does the organization have a mechanism to monitor the effectiveness of implemented risk response options and make adjustments as needed?
+
+**Audit Evidence / Prüfpunkte:**
+- KPI/KRI Monitoring für implementierte Controls
+- Regelmäßige Effektivitätsprüfungen / Control Testing
+- Lessons Learned aus Vorfällen oder Audits
+- Dokumentierte Anpassungen und Verbesserungen
+- Reporting an Management / Board
