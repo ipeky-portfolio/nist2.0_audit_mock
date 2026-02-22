@@ -1,0 +1,80 @@
+# Cybersecurity Security Tests & Exercises – Audit Checklist
+
+## 1. Conducting Security Tests & Exercises
+- [ ] Does the organization conduct security tests and exercises to identify potential improvements in its cybersecurity posture?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Test- und Übungsprozesse
+- Nachweis über die Durchführung von Tests oder Übungen
+
+---
+
+## 2. Types of Tests & Exercises
+- [ ] What types of security tests and exercises are performed (e.g., penetration testing, vulnerability assessments, tabletop exercises, incident response simulations)?
+
+**Audit Evidence / Prüfpunkte:**
+- Liste der durchgeführten Tests und Übungen
+- Beispiele oder Berichte zu Penetration Tests, Simulationen, Tabletop Exercises
+
+---
+
+## 3. Alignment with Risk Profile
+- [ ] How does the organization ensure that the security tests and exercises are realistic, comprehensive, and aligned with its risk profile?
+
+**Audit Evidence / Prüfpunkte:**
+- Testpläne, Risiko-Mapping-Dokumente
+- Nachweis der Abdeckung relevanter Bedrohungen und Schwachstellen
+
+---
+
+## 4. Involvement of Suppliers & Third Parties
+- [ ] Are relevant suppliers and third parties involved in the planning and execution of security tests and exercises, where appropriate?
+
+**Audit Evidence / Prüfpunkte:**
+- Teilnahmeprotokolle externer Partner
+- Verträge oder Vereinbarungen zur Einbindung von Dritten
+
+---
+
+## 5. Documentation & Reporting
+- [ ] Does the organization maintain documentation or reports from the conducted security tests and exercises?
+
+**Audit Evidence / Prüfpunkte:**
+- Test- und Übungsberichte
+- Zentralisierte Ablage oder Repository für Testdokumentation
+
+---
+
+## 6. Analysis of Results
+- [ ] Are there mechanisms in place to analyze the results of security tests and exercises and identify opportunities for improvement?
+
+**Audit Evidence / Prüfpunkte:**
+- Analysen oder Nachbereitungsdokumente
+- Identifizierte Maßnahmen zur Verbesserung
+
+---
+
+## 7. Prioritization of Improvements
+- [ ] How does the organization prioritize and select the improvements to be implemented based on the security test and exercise results?
+
+**Audit Evidence / Prüfpunkte:**
+- Bewertungs- oder Scoring-Methoden für identifizierte Verbesserungen
+- Nachweis der Priorisierung in der Umsetzung
+
+---
+
+## 8. Implementation & Tracking
+- [ ] Is there a defined process for planning, implementing, and tracking the identified improvements?
+
+**Audit Evidence / Prüfpunkte:**
+- Projektpläne, Fortschrittsberichte, KPI-Monitoring
+- Dokumentierte Workflows zur Umsetzung von Maßnahmen
+
+---
+
+## 9. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for conducting security tests and exercises, and identifying improvements?
+
+**Audit Evidence / Prüfpunkte:**
+- RACI-Matrix oder Rollenbeschreibungen
+- Nachweis der Verantwortlichkeiten für Planung, Durchführung und Nachbereitung
