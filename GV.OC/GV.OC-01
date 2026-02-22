@@ -1,1 +1,77 @@
+# Cybersecurity & Mission Alignment – Audit Checklist (mit Prüfpunkten)
+
+## 1. Mission Statement Documentation
+- [ ] Does the organization have a documented and communicated mission statement that clearly articulates the organization's purpose and strategic objectives?
+
+**Audit Evidence / Prüfpunkte:**
+- Schriftlich dokumentierte Mission (z. B. Website, Intranet, Geschäftsbericht)
+- Genehmigung durch Geschäftsführung / Vorstand
+- Kommunikation an Mitarbeitende (Townhall, Policy, Onboarding)
+- Verknüpfung zu strategischen Zielen / OKRs
+
+---
+
+## 2. Stakeholder Engagement
+- [ ] Have key stakeholders (executive leadership, board, department heads) been engaged to ensure shared understanding?
+
+**Audit Evidence / Prüfpunkte:**
+- Protokolle von Strategie- oder Board-Meetings
+- Dokumentierte Abstimmungsprozesse
+- Rollen- und Verantwortlichkeitsmatrix (z. B. RACI)
+- Nachweis regelmäßiger Strategie-Reviews
+
+---
+
+## 3. Cyber Risk Impact Assessment
+- [ ] Has the organization assessed how its mission and strategic objectives could be impacted by cybersecurity risks and threats?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Risikoanalyse / Risk Register
+- Business Impact Analysis (BIA)
+- Bedrohungsanalysen (Threat Modeling)
+- Mapping von Risiken auf strategische Ziele
+
+---
+
+## 4. Policy Alignment
+- [ ] Are cybersecurity risk management policies, processes, and controls aligned with the organizational mission?
+
+**Audit Evidence / Prüfpunkte:**
+- Informationssicherheitsleitlinie mit Missionsbezug
+- Mapping zwischen strategischen Zielen und Sicherheitsmaßnahmen
+- Governance-Struktur dokumentiert
+- Abgleich mit anerkannten Frameworks (z. B. ISO 27001, NIST CSF)
+
+---
+
+## 5. Risk Prioritization
+- [ ] Do cybersecurity risk management activities consider the organizational mission when prioritizing risks?
+
+**Audit Evidence / Prüfpunkte:**
+- Risikobewertungskriterien beinhalten geschäftliche Auswirkungen
+- Priorisierung nach Kritikalität für Kernprozesse
+- Management-Reporting mit Bezug zu strategischen Zielen
+- Dokumentierte Entscheidungsgrundlagen
+
+---
+
+## 6. Roles & Responsibilities
+- [ ] Are cybersecurity roles and responsibilities defined to ensure mission consideration in risk decisions?
+
+**Audit Evidence / Prüfpunkte:**
+- Organigramm / Sicherheitsorganisation dokumentiert
+- Stellenbeschreibungen mit Risiko-Verantwortung
+- Eskalationsprozesse definiert
+- Benannter CISO oder vergleichbare Rolle
+
+---
+
+## 7. Periodic Review & Update
+- [ ] Does the organization periodically review and update its cybersecurity risk management approach?
+
+**Audit Evidence / Prüfpunkte:**
+- Regelmäßige Management-Reviews
+- Aktualisierte Risikoanalysen
+- Lessons Learned aus Incidents
+- Anpassungen bei Strategieänderungen
 
