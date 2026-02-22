@@ -1,0 +1,99 @@
+# Threat Identification – Internal and External Threats – Audit Checklist
+
+## 1. Threat Identification Process
+- [ ] Does the organization have a process in place to identify and record internal and external threats?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierter Prozess zur Bedrohungserkennung
+- Nachweis regelmäßiger Bedrohungsidentifikation
+- Integration in Cybersecurity- und Risk-Management-Prozesse
+
+---
+
+## 2. Internal Threat Sources
+- [ ] What sources of information does the organization utilize to identify internal threats (e.g., employee monitoring, data loss prevention, insider threat program)?
+
+**Audit Evidence / Prüfpunkte:**
+- Liste genutzter interner Quellen
+- Nachweis der systematischen Überwachung auf Insider-Bedrohungen
+- Dokumentation der Nutzung für Risikoanalyse
+
+---
+
+## 3. External Threat Sources
+- [ ] What sources of information does the organization utilize to identify external threats (e.g., threat intelligence feeds, security advisories, industry reports)?
+
+**Audit Evidence / Prüfpunkte:**
+- Liste externer Informationsquellen (CTI-Feeds, Advisories, Reports)
+- Nachweis der Analyse und Integration in Risiko-Management
+- Dokumentation der Validierung der Quellen
+
+---
+
+## 4. Centralized Threat Repository
+- [ ] Is there a centralized repository or system for recording and tracking identified internal and external threats?
+
+**Audit Evidence / Prüfpunkte:**
+- Zentralisierte Threat-Datenbank oder System
+- Vollständige Aufzeichnung von Bedrohungen inkl. Historie
+- Nutzung für Reporting, Eskalation und Risikobewertung
+
+---
+
+## 5. Threat Details
+- [ ] Does the threat information include details such as threat actors, motivations, tactics, techniques, and potential impacts?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentation von Actor, Motivation, TTPs (Tactics, Techniques, Procedures)
+- Einschätzung des potenziellen Impacts
+- Nutzung der Informationen für Priorisierung und Risikobewertung
+
+---
+
+## 6. Accuracy & Currency
+- [ ] How does the organization ensure that threat information is kept up-to-date and reflects the current threat landscape?
+
+**Audit Evidence / Prüfpunkte:**
+- Regelmäßige Aktualisierung der Threat-Daten
+- Nachweis der Anpassung an aktuelle Bedrohungen
+- Integration von CTI-Feeds, Security Advisories und Monitoring
+
+---
+
+## 7. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for the identification and recording of internal and external threats?
+
+**Audit Evidence / Prüfpunkte:**
+- RACI-Matrix oder Rollenbeschreibungen
+- Verantwortlichkeiten für Erfassung, Analyse und Reporting
+- Nachweis der Umsetzung durch Security Teams
+
+---
+
+## 8. Training & Guidance
+- [ ] Does the organization provide training or guidance to personnel involved in threat identification and management activities?
+
+**Audit Evidence / Prüfpunkte:**
+- Schulungen, SOP-Handbücher oder Awareness-Materialien
+- Teilnahme- und Trainingsnachweise
+- Dokumentation der praktischen Anwendung im Threat-Management
+
+---
+
+## 9. Leadership Oversight
+- [ ] How does the organization's leadership oversee and monitor the effectiveness of the threat identification and management processes?
+
+**Audit Evidence / Prüfpunkte:**
+- Reports, KPI-Dashboards oder Management-Reviews
+- Nachweis der Entscheidungen basierend auf Threat-Informationen
+- Dokumentation der kontinuierlichen Verbesserung
+
+---
+
+## 10. Prioritization & Risk-Based Mitigation
+- [ ] Are there mechanisms in place to prioritize and address identified threats based on risk assessments?
+
+**Audit Evidence / Prüfpunkte:**
+- Risiko-basierte Priorisierungsmatrix für Bedrohungen
+- Nachweis von Maßnahmen entsprechend Risikobewertung
+- Integration in Cybersecurity- und Enterprise Risk-Management-Prozesse
