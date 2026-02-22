@@ -1,0 +1,109 @@
+# Supplier & Third-Party Cybersecurity Risk Management – Audit Checklist
+
+## 1. Defined Risk Management Process
+- [ ] Has the organization established a process to identify, assess, and prioritize the cybersecurity risks posed by its suppliers and other third-party service providers?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierter Prozess für Supplier/Third-Party Risk Management
+- Genehmigung durch Management / CISO
+- Integration in ERM oder ISMS
+- Historie der Prozessanpassungen
+
+---
+
+## 2. Evaluation Criteria & Methodologies
+- [ ] What criteria and methodologies does the organization use to evaluate the cybersecurity risks associated with its suppliers and third parties (e.g., threat assessments, vulnerability scans, security control reviews)?
+
+**Audit Evidence / Prüfpunkte:**
+- Bewertungsmethoden dokumentiert
+- Einsatz von Threat Intelligence, Vulnerability Scans, Security Assessments
+- Bewertungs-Kategorien (High/Medium/Low) klar definiert
+- Nachweis der Anwendung in Praxisfällen
+
+---
+
+## 3. Centralized Inventory / Database
+- [ ] How does the organization maintain a centralized inventory or database of the identified cybersecurity risks related to its suppliers and third-party relationships?
+
+**Audit Evidence / Prüfpunkte:**
+- Supplier Risk Register oder Datenbank dokumentiert
+- Zugriffskontrollen und Versionierung nachgewiesen
+- Nachweis der Pflege und Aktualisierung
+- Integration in Reporting / ERM
+
+---
+
+## 4. Integration into ERM & Risk Register
+- [ ] Are the cybersecurity risks associated with suppliers and third parties integrated into the organization's overall enterprise risk management framework and risk register?
+
+**Audit Evidence / Prüfpunkte:**
+- Mapping von Supplier-Risiken auf ERM-Risiken
+- Nachweis in Risk Register oder Dashboard
+- Management-Review-Dokumentation
+- Konsistenzprüfung mit Unternehmensrichtlinien
+
+---
+
+## 5. Ongoing Monitoring & Updates
+- [ ] What processes are in place to regularly monitor and update the cybersecurity risk profiles of the organization's suppliers and third-party service providers?
+
+**Audit Evidence / Prüfpunkte:**
+- Regelmäßige Überprüfung dokumentiert (z. B. quartalsweise)
+- Aktualisierung von Risiko-Bewertungen basierend auf Vorfällen oder Änderungen
+- Nachweis von Management-Review oder Steering-Committee Meetings
+- Tracking von Änderungen im Risk Register
+
+---
+
+## 6. Risk Response & Mitigation
+- [ ] How does the organization respond to and mitigate the identified cybersecurity risks posed by its suppliers and third parties, based on the risk prioritization and assessment?
+
+**Audit Evidence / Prüfpunkte:**
+- Risikobehandlungspläne dokumentiert
+- Nachweis der Umsetzung von Maßnahmen
+- Korrektur- und Eskalationsprozesse
+- Integration in Business Continuity / Incident Response
+
+---
+
+## 7. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for the ongoing management and monitoring of cybersecurity risks related to suppliers and third-party relationships?
+
+**Audit Evidence / Prüfpunkte:**
+- RACI-Matrix oder Governance-Dokumentation
+- Benannte Teams / Personen für Supplier Risk Management
+- Nachweis von Schulungen / Awareness
+- Eskalations- und Freigabeprozesse dokumentiert
+
+---
+
+## 8. Guidance & Training
+- [ ] Does the organization provide guidance or training to personnel responsible for supplier and third-party risk management activities?
+
+**Audit Evidence / Prüfpunkte:**
+- Trainingsprogramme oder SOPs für beteiligte Teams
+- Teilnahmeberichte und KPI Tracking
+- Integration in Onboarding und kontinuierliche Schulungen
+- Feedback-Mechanismen zur Verbesserung der Trainings
+
+---
+
+## 9. Leadership Oversight & Direction
+- [ ] How does the organization's leadership oversee and provide direction on the management of cybersecurity risks associated with the supply chain and third-party relationships?
+
+**Audit Evidence / Prüfpunkte:**
+- Teilnahme von Führungskräften an Review-Meetings
+- Offizielle Kommunikation von Richtlinien und Erwartungen
+- Ressourcenbereitstellung für Umsetzung
+- Nachweis der strategischen Einbindung in ERM
+
+---
+
+## 10. Measuring Effectiveness & Continuous Improvement
+- [ ] Are there mechanisms in place to measure the effectiveness of the organization's supplier and third-party cybersecurity risk management processes and make improvements as needed?
+
+**Audit Evidence / Prüfpunkte:**
+- KPI/KRI Tracking für Supplier Risk Management
+- Auditberichte oder externe Assessments
+- Dokumentierte Lessons Learned oder Verbesserungsmaßnahmen
+- Nachweis der Anpassung von Prozessen basierend auf Ergebnissen
