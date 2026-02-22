@@ -1,0 +1,89 @@
+# Network Communication & Data Flow Management – Audit Checklist
+
+## 1. Comprehensive Representation
+- [ ] Does the organization maintain representations of its authorized network communication and data flows, both internal and external?
+
+**Audit Evidence / Prüfpunkte:**
+- Dokumentierte Netzwerkdiagramme, Data Flow Maps oder Architekturpläne
+- Nachweis der regelmäßigen Pflege und Aktualisierung
+- Integration in Cybersecurity- und Risk-Management-Prozesse
+
+---
+
+## 2. Types of Network Communication & Data Flows
+- [ ] What types of network communication and data flows are represented (e.g., application traffic, remote access, cloud services, partner connections)?
+
+**Audit Evidence / Prüfpunkte:**
+- Kategorisierung der Flows (intern, extern, Cloud, Remote, Partner)
+- Abgleich mit Netzwerk- und Systemarchitektur
+- Dokumentierte Datenflussarten und Zugriffswege
+
+---
+
+## 3. Accuracy & Currency
+- [ ] How does the organization ensure that the network communication and data flow representations are accurate and up-to-date?
+
+**Audit Evidence / Prüfpunkte:**
+- Prozesse zur regelmäßigen Überprüfung
+- Versionierung und Audit-Trails
+- Nachweis von Updates nach Netzwerkänderungen
+
+---
+
+## 4. Updating Processes
+- [ ] Is there a defined process for updating the network communication and data flow representations when changes occur?
+
+**Audit Evidence / Prüfpunkte:**
+- SOPs oder Change Management Workflows
+- Nachweis von Aktualisierungen nach Änderungen
+- Genehmigungen und Review durch Netzwerk-/Security-Team
+
+---
+
+## 5. Inventory Details
+- [ ] Do the network communication and data flow representations include relevant details such as source, destination, protocols, ports, and security controls?
+
+**Audit Evidence / Prüfpunkte:**
+- Vollständige Dokumentation der Flows
+- Details zu Ports, Protokollen, Firewalls, VPNs
+- Integration in Risikoanalysen und Security Assessments
+
+---
+
+## 6. Use in Cybersecurity Risk Management
+- [ ] How are the network communication and data flow representations used to support cybersecurity risk management activities?
+
+**Audit Evidence / Prüfpunkte:**
+- Nutzung für Threat Modeling, Vulnerability Management, Incident Response
+- Reports für Management und Security Governance
+- Nachweis von Entscheidungen basierend auf Flow-Daten
+
+---
+
+## 7. Detection of Unauthorized / Unmanaged Flows
+- [ ] Are there mechanisms in place to monitor and detect unauthorized or unmanaged network communications and data flows?
+
+**Audit Evidence / Prüfpunkte:**
+- IDS/IPS, Network Monitoring Tools
+- Alerts für unbekannte Flows oder Ports
+- Nachweis von Korrekturmaßnahmen
+
+---
+
+## 8. Centralized System / Database
+- [ ] Does the organization have a centralized system or database for maintaining and managing the network communication and data flow representations?
+
+**Audit Evidence / Prüfpunkte:**
+- CMDB, Network Management System oder andere zentrale Tools
+- Zugriffskontrollen, Versionierung, Integrität
+- Integration in Change Management und Security Reviews
+
+---
+
+## 9. Roles & Responsibilities
+- [ ] Are there clear roles and responsibilities assigned for maintaining the network communication and data flow representations?
+
+**Audit Evidence / Prüfpunkte:**
+- Rollenbeschreibung oder RACI-Matrix
+- Verantwortlichkeiten für Pflege, Review und Audit
+- Nachweis von Schulungen und Awareness
