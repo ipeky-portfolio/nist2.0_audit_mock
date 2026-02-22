@@ -43,3 +43,39 @@
 - Kundenfeedback- oder Compliance-Prozesse
 - Prozess zur Anpassung bei neuen regulatorischen Anforderungen
 - Dokumentierte Änderungs- oder Verbesserungsmaßnahmen
+
+---
+
+## 5. Alignment of Policies, Processes & Controls
+- [ ] Are the organization's cybersecurity risk management policies, processes, and controls designed to address the identified stakeholder needs and expectations?
+
+**Audit Evidence / Prüfpunkte:**
+- Mapping zwischen Stakeholder-Anforderungen und Sicherheitskontrollen
+- Berücksichtigung vertraglicher und regulatorischer Anforderungen
+- Dokumentierte Control Objectives mit Bezug zu Stakeholder-Erwartungen
+- Nachweis der Integration in ISMS / Risk Management Framework
+- Management-Freigabe sicherheitsrelevanter Policies
+
+---
+
+## 6. Incorporation of Stakeholder Feedback
+- [ ] Are there examples of how the organization has incorporated stakeholder feedback and input into its cybersecurity risk management approach?
+
+**Audit Evidence / Prüfpunkte:**
+- Änderungsprotokolle von Policies nach Feedback
+- Anpassungen nach Kundenanforderungen oder Security Assessments
+- Lessons Learned aus Audits oder Assessments
+- Dokumentierte Verbesserungsmaßnahmen (Continuous Improvement)
+- Nachweis von Board- oder Management-Entscheidungen
+
+---
+
+## 7. Monitoring of Gaps & Misalignments
+- [ ] Does the organization have a mechanism to monitor and address gaps or misalignments between stakeholder needs and cybersecurity risk management activities?
+
+**Audit Evidence / Prüfpunkte:**
+- Gap-Analysen oder Compliance-Assessments
+- KPI / KRI Reporting mit Stakeholder-Bezug
+- Internes Auditprogramm oder Kontrolltests
+- Eskalations- und Remediation-Prozess definiert
+- Dokumentierte Maßnahmenverfolgung (z. B. Ticket- oder Tracking-System)
